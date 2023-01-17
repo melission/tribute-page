@@ -23,6 +23,8 @@ function App() {
       <div className="App">
           <head>
               <meta name="viewport" content="width=device-width, initial-scale=1" />
+              <meta charSet={"utf-8"} />
+              <title>Spock tribute page</title>
           </head>
         <header className="App-header" id="title">15 Times when Spock saved the Galaxy.</header>
           <div id="img-div">
