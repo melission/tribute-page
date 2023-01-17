@@ -21,6 +21,9 @@ function App() {
     //   </header>
     // </div>
       <div className="App">
+          <head>
+              <meta name="viewport" content="width=device-width, initial-scale=1" />
+          </head>
         <header className="App-header" id="title">15 Times when Spock saved the Galaxy.</header>
           <div id="img-div">
               <img id="image" src={spock} alt='a picture of Spock'/>
