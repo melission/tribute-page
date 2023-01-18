@@ -54,7 +54,7 @@ li {
 }
 
 #title {
-    margin: 40px auto;
+    margin: 50px auto 0;
     display: block;
     /*border: 1px solid purple;*/
     max-width: 700px;
